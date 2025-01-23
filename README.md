@@ -1,5 +1,5 @@
 # VisualNovelSystem
-ignore the sample text
+Made by Artifex bc he was bored in class
 
 <hr>
 
