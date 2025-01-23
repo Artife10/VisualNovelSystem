@@ -3,24 +3,22 @@ ignore the sample text
 
 <hr>
 
-Change the Lines array to change the text!<br>
-
-Change the imgs array to change the images<br>
+USE THE EDITOR.HTML TO EDIT THE NOVEL
 
 <hr>
 
 # Planned shit:
 
--actual editing site that writes the text and imgs for you<br>
--UNDEFINED nerf<br>
+<s>-actual editing site that writes the text and imgs for you</s><br>
+<s>-UNDEFINED nerf</s><br>
 -the double pump update<br>
 
 <hr>
 
 # Problems:
 
--UNDEFINED<br>
--Shit editing experience<br>
--Some images overflow into the text box<br>
+<s>-UNDEFINED</s><br>
+<s>-Shit editing experience</s><br>
+<s>-Some images overflow into the text box</s><br>
 
 <img src="Képernyőkép 2025-01-23 093102.png">
