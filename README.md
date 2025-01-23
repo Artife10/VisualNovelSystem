@@ -19,7 +19,7 @@ PASTE THE CODE INTO LINES.JS TO APPLY THE NEW STORY!!
 # Problems:
 
 <s>-UNDEFINED</s><br>
-<s>-Shit editing experience</s><br>
+<s>-Shit editing experience</s>(still sucks)<br>
 <s>-Some images overflow into the text box</s><br>
 
 <img src="Képernyőkép 2025-01-23 093102.png">
