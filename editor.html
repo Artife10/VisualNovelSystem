@@ -1,0 +1,35 @@
+<!--DELETE BEFORE RELEASE!!!-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VN editor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <p>Remember if the link isn't right the image won't show up</p>
+        <p>You can use a discord link for example</p>
+
+        <p>or you can add the local path to it like imgs/wawa.png or just wawa.png if same folder</p>
+
+        <h1>YOU HAVE TO MANUALLY CHANGE THE LINES IF YOU FUCKED UP LATER</h1>
+        <table>
+            <tr>
+                <td><input type="text" placeholder="Put the line here" id="textbox"></td>
+                <td><input type="text" placeholder="Put the link to the img here" id="imgbox"></td>
+            </tr>
+            <tr><td colspan="2"><button onclick="submit()" id="button" >SUBMIT LINE</button></td></tr>
+            <tr>
+                <td colspan="2" id="output"><h1>THE JS CODE WILL APPEAR HERE</h1></td>
+            </tr>
+            <tr><td colspan="2"><button onclick="importold()" id="button">IMPORT OLD</button></td></tr>
+        </table>
+        <script src="lines.js"></script>
+    </div>
+
+    <script src="editor.js"></script>
+</body>
+</html>
