@@ -4,6 +4,7 @@ ignore the sample text
 <hr>
 
 USE THE EDITOR.HTML TO EDIT THE NOVEL
+PASTE THE CODE INTO LINES.JS TO APPLY THE NEW STORY!!
 
 <hr>
 
